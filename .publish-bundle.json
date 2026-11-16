@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "generator": "publish_bundle.py",
+  "generated_at": "2026-11-17 00:46:03 +0800",
+  "source_catalog_version": "2026-11-16.2",
+  "counts": {
+    "sources": 752,
+    "pages": 5253
+  },
+  "generated_paths": [
+    "index.html",
+    "README.md",
+    "MATERIALS-RIGHTS.md",
+    ".gitignore",
+    "data",
+    "images",
+    ".publish-bundle.json"
+  ]
+}

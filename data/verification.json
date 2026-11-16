@@ -1,0 +1,14 @@
+{
+  "scope": "第六轮700张及第二版选中52张",
+  "sources": 752,
+  "pages": 5253,
+  "unique_jpegs": 6003,
+  "source_partial": 62,
+  "crop_review_needed": 948,
+  "all_original_hashes_verified": true,
+  "source_integrity_audit_passed": true,
+  "package_tests_passed": 14,
+  "credential_scan_passed": true,
+  "private_paths_removed": true,
+  "image_bytes": 465213453
+}

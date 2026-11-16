@@ -1,0 +1,451 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PPT 素材浏览库</title>
+<style>
+:root {
+  --bg: #f4f6f8;
+  --panel: #ffffff;
+  --ink: #172033;
+  --muted: #667085;
+  --line: #e3e7ee;
+  --brand: #0f766e;
+  --brand-soft: #e6f4f1;
+  --warn: #9a3412;
+  --shadow: 0 12px 32px rgba(15, 23, 42, 0.08);
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  line-height: 1.55;
+}
+body.modal-open { overflow: hidden; }
+a { color: var(--brand); }
+.wrap { width: min(1480px, 100%); margin: 0 auto; padding: 0 22px; }
+.hero {
+  background: linear-gradient(135deg, #0f172a 0%, #134e4a 58%, #115e59 100%);
+  color: #fff;
+  padding: 42px 0 30px;
+}
+.eyebrow { margin: 0 0 8px; letter-spacing: .12em; text-transform: uppercase; font-size: 12px; opacity: .72; }
+h1 { margin: 0; font-size: clamp(28px, 4vw, 46px); line-height: 1.12; letter-spacing: -0.02em; }
+.sub { margin: 10px 0 0; max-width: 900px; color: rgba(255,255,255,.82); }
+.stats { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+.stat {
+  min-width: 104px; padding: 10px 14px; border: 1px solid rgba(255,255,255,.18);
+  border-radius: 12px; background: rgba(255,255,255,.08);
+}
+.stat b { display: block; font-size: 20px; line-height: 1.2; }
+.stat span { display: block; font-size: 12px; color: rgba(255,255,255,.72); margin-top: 2px; }
+main { padding: 22px 0 48px; }
+.toolbar {
+  display: grid; grid-template-columns: auto minmax(180px, 1fr) repeat(5, minmax(110px, auto)) auto;
+  gap: 10px; align-items: center; padding: 14px; background: var(--panel);
+  border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow);
+  position: sticky; top: 10px; z-index: 20;
+}
+.modes { display: inline-flex; padding: 3px; background: #eef1f5; border-radius: 10px; }
+.mode, .ghost, .more {
+  border: 0; border-radius: 8px; padding: 9px 13px; font: inherit; cursor: pointer;
+  background: transparent; color: var(--muted);
+}
+.mode.active { background: var(--brand); color: #fff; box-shadow: 0 2px 8px rgba(15,118,110,.28); }
+select, input[type="search"] {
+  width: 100%; min-height: 40px; padding: 8px 10px; border: 1px solid var(--line);
+  border-radius: 10px; background: #fff; color: var(--ink); font: inherit;
+}
+input[type="search"]:focus, select:focus { outline: 2px solid rgba(15,118,110,.2); border-color: var(--brand); }
+.ghost { background: #f4f6f8; color: var(--ink); }
+.ghost:hover { background: var(--brand-soft); color: var(--brand); }
+.meta-row { display: flex; justify-content: space-between; gap: 16px; align-items: baseline; margin: 18px 2px 12px; }
+.count { margin: 0; font-weight: 700; }
+.hint { margin: 0; color: var(--muted); font-size: 13px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 16px; }
+.card {
+  background: var(--panel); border: 1px solid var(--line); border-radius: 14px; overflow: hidden;
+  box-shadow: 0 3px 10px rgba(15,23,42,.04); cursor: pointer; transition: transform .16s ease, box-shadow .16s ease;
+}
+.card:hover, .card:focus-visible { transform: translateY(-2px); box-shadow: 0 14px 30px rgba(15,23,42,.12); outline: none; }
+.thumb { position: relative; background: #e9edf2; overflow: hidden; }
+.thumb.pages { aspect-ratio: 16 / 9; }
+.thumb.sources { aspect-ratio: 4 / 3; }
+.thumb img { width: auto; height: auto; max-width: 100%; max-height: 100%; object-fit: contain; display: block; }
+.thumb.missing::after {
+  content: "图片缺失"; position: absolute; inset: 0; display: grid; place-items: center;
+  color: var(--muted); font-size: 13px; background: repeating-linear-gradient(45deg, #eef1f5, #eef1f5 10px, #e7ebf0 10px, #e7ebf0 20px);
+}
+.card-body { padding: 12px 13px 13px; }
+.card h3 { margin: 0 0 8px; font-size: 15px; line-height: 1.35; min-height: 2.7em; }
+.chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.chip {
+  display: inline-block; padding: 2px 7px; border-radius: 999px; background: var(--brand-soft);
+  color: #0b5f58; font-size: 11px; line-height: 1.7; white-space: nowrap;
+}
+.detail { margin: 9px 0 0; color: var(--muted); font-size: 12px; min-height: 1.5em; }
+.id { margin: 6px 0 0; color: #98a2b3; font-size: 11px; overflow-wrap: anywhere; }
+.empty { padding: 52px 20px; text-align: center; color: var(--muted); background: var(--panel); border: 1px dashed var(--line); border-radius: 16px; }
+.more-wrap { display: flex; justify-content: center; margin: 24px 0 0; }
+.more { background: var(--brand); color: #fff; padding: 11px 22px; border-radius: 999px; }
+.more:hover { filter: brightness(1.05); }
+.foot { margin-top: 34px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
+.foot p { margin: 5px 0; }
+.modal {
+  position: fixed; inset: 0; z-index: 80; padding: 20px; background: rgba(15,23,42,.74);
+  display: flex; align-items: center; justify-content: center;
+}
+.modal-card {
+  width: min(1120px, 100%); max-height: 92vh; overflow: auto; background: #fff;
+  border-radius: 18px; display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(300px, .65fr);
+  box-shadow: 0 24px 70px rgba(0,0,0,.35); position: relative;
+}
+.modal-media { background: #0b1220; display: grid; place-items: center; min-height: 300px; }
+.modal-media img { max-width: 100%; max-height: 78vh; display: block; }
+.modal-body { padding: 24px 24px 28px; }
+.modal-body h2 { margin: 0 34px 6px 0; font-size: 22px; line-height: 1.3; }
+.modal-sub { margin: 0 0 16px; color: var(--muted); }
+.meta { display: grid; gap: 10px; margin: 0; }
+.meta > div { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 10px; padding-bottom: 9px; border-bottom: 1px solid var(--line); }
+.meta dt { color: var(--muted); font-size: 12px; }
+.meta dd { margin: 0; overflow-wrap: anywhere; font-size: 13px; }
+.close {
+  position: absolute; top: 10px; right: 12px; z-index: 2; width: 36px; height: 36px;
+  border: 0; border-radius: 50%; background: rgba(255,255,255,.88); color: #111827;
+  font-size: 24px; line-height: 1; cursor: pointer;
+}
+@media (max-width: 1100px) {
+  .toolbar { grid-template-columns: auto 1fr 1fr 1fr; }
+  .toolbar input[type="search"] { grid-column: span 2; }
+}
+@media (max-width: 760px) {
+  .wrap { padding: 0 14px; }
+  .toolbar { position: static; grid-template-columns: 1fr 1fr; }
+  .toolbar input[type="search"] { grid-column: 1 / -1; }
+  .modes { grid-column: 1 / -1; justify-content: center; }
+  .meta-row { display: block; }
+  .hint { margin-top: 4px; }
+  .modal-card { grid-template-columns: 1fr; }
+  .modal-media img { max-height: 52vh; }
+}
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow">分类浏览库 · 公开精简包</p>
+    <h1>PPT 素材浏览库</h1>
+    <p class="sub">700 张第六轮 + 52 张第二版选中（旧类原图） · 只做分类与裁切，不做质量评分；单页清晰度受来源缩略页限制。</p>
+    <div id="stats" class="stats"></div>
+  </div>
+</header>
+<main class="wrap">
+  <section class="toolbar" aria-label="筛选工具">
+    <div class="modes" role="group" aria-label="视图切换">
+      <button id="mode-pages" class="mode active" type="button">单页</button>
+      <button id="mode-sources" class="mode" type="button">原图</button>
+    </div>
+    <input id="search" type="search" placeholder="搜索标题、用途、风格、布局、ID…" autocomplete="off">
+    <select id="batch" aria-label="批次"><option value="">全部批次</option></select>
+    <select id="style" aria-label="风格"><option value="">全部风格</option></select>
+    <select id="layout" aria-label="布局"><option value="">全部布局</option></select>
+    <select id="kind" aria-label="来源类型"><option value="">全部来源类型</option></select>
+    <select id="crop" aria-label="裁切状态"><option value="">全部</option><option value="normal">正常裁切</option><option value="review">裁切待复核</option><option value="partial">来源局部</option></select>
+    <button id="reset" class="ghost" type="button">重置</button>
+  </section>
+  <div class="meta-row">
+    <p id="count" class="count"></p>
+    <p class="hint">小缩略图不放大造细节；正常裁切仅表示无已记录异常，不代表人工验收。异常页及来源局部待复核。</p>
+  </div>
+  <section id="grid" class="grid" aria-live="polite"></section>
+  <div id="empty" class="empty" hidden>没有匹配的记录。</div>
+  <div class="more-wrap"><button id="more" class="more" type="button" hidden>加载更多</button></div>
+  <footer class="foot">
+    <p>2026-11-17 00:46:03 +0800 · 本包不授予第三方图片开源或商用许可。<a href="MATERIALS-RIGHTS.md">素材权利说明</a> · <a href="README.md">使用说明</a></p>
+    <p>分类为自动候选；单页来自缩略页裁切，清晰度受来源限制；未做质量评分。</p>
+  </footer>
+</main>
+<div id="modal" class="modal" hidden>
+  <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <button id="modal-close" class="close" type="button" aria-label="关闭">×</button>
+    <div class="modal-media"><img id="modal-img" alt=""></div>
+    <div class="modal-body">
+      <h2 id="modal-title"></h2>
+      <p id="modal-sub" class="modal-sub"></p>
+      <dl id="modal-meta" class="meta"></dl>
+      <p><a id="modal-open" href="#" target="_blank" rel="noopener">在新标签页打开图片</a></p>
+    </div>
+  </div>
+</div>
+<script src="data/catalog.js"></script>
+<script>
+(function () {
+  "use strict";
+  var DATA = window.MATERIAL_LIBRARY;
+  var PAGE_SIZE = 120;
+  var state = { mode: "pages", batch: "", style: "", layout: "", kind: "", crop: "", q: "", visible: PAGE_SIZE };
+  var sourceById = Object.create(null);
+  var $ = function (id) { return document.getElementById(id); };
+  var esc = function (value) {
+    return String(value == null ? "" : value).replace(/[&<>"']/g, function (ch) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch];
+    });
+  };
+  var listText = function (value) { return Array.isArray(value) ? value.join(" / ") : (value || ""); };
+  var unique = function (values) {
+    var seen = Object.create(null), out = [];
+    values.forEach(function (value) { if (value && !seen[value]) { seen[value] = 1; out.push(value); } });
+    return out;
+  };
+  var countKeys = function (obj) { return obj ? Object.keys(obj) : []; };
+
+  if (!DATA) {
+    $("empty").hidden = false;
+    $("empty").textContent = "未找到 data/catalog.js，请从完整发布包打开 index.html。";
+    return;
+  }
+  (DATA.sources || []).forEach(function (item) { sourceById[item.source_id] = item; });
+
+  function fillSelect(id, values) {
+    var select = $(id);
+    values.forEach(function (value) {
+      var option = document.createElement("option");
+      option.value = value;
+      option.textContent = value;
+      select.appendChild(option);
+    });
+  }
+  function stat(label, value) {
+    return '<div class="stat"><b>' + esc(value) + '</b><span>' + esc(label) + '</span></div>';
+  }
+  var stats = DATA.stats || {};
+  fillSelect("batch", Object.keys(stats.batch_counts || {}));
+  fillSelect("style", unique(Object.keys(stats.page_style_counts || {}).concat(Object.keys(stats.source_style_counts || {}))));
+  fillSelect("layout", Object.keys(stats.layout_counts || {}));
+  fillSelect("kind", Object.keys(stats.source_kind_counts || {}));
+  $("stats").innerHTML = [
+    stat("来源", stats.sources || 0),
+    stat("单页", stats.pages || 0),
+    stat("完整页", stats.complete_pages || 0),
+    stat("局部页", stats.partial_pages || 0),
+    stat("小尺寸页", stats.small_pages || 0),
+    stat("裁切待复核", stats.crop_review_needed || 0)
+  ].join("");
+
+  function matches(item) {
+    if (state.batch && item.batch !== state.batch) return false;
+    if (state.crop) {
+      if (state.mode === "sources") {
+        if ((item.crop_statuses || []).indexOf(state.crop) < 0) return false;
+      } else {
+        if (state.crop === "normal" && (item.crop_review_needed || item.source_partial)) return false;
+        if (state.crop === "review" && !item.crop_review_needed) return false;
+        if (state.crop === "partial" && !item.source_partial) return false;
+      }
+    }
+    if (state.mode === "pages") {
+      if (state.style && item.style !== state.style) return false;
+      if (state.layout && item.layout !== state.layout) return false;
+    } else {
+      if (state.style && item.primary_style !== state.style && item.selected_style !== state.style) return false;
+      if (state.layout && !(item.layout_distribution && item.layout_distribution[state.layout])) return false;
+    }
+    if (state.kind && item.source_kind !== state.kind) return false;
+    if (state.q) {
+      var source = sourceById[item.source_id];
+      var parts = state.mode === "pages"
+        ? [item.page_id, item.source_id, item.title, item.style, item.layout, item.role,
+           listText(item.purpose), listText(item.style_tags), listText(item.style_techniques),
+           item.batch, item.source_kind, item.crop_review_reason, listText(item.uncertainties), source ? source.name : ""]
+        : [item.source_id, item.name, item.batch, item.selected_style, item.source_kind,
+           item.primary_style, countKeys(item.style_distribution).join(" "), countKeys(item.layout_distribution).join(" ")];
+      if (parts.join(" ").toLowerCase().indexOf(state.q) < 0) return false;
+    }
+    return true;
+  }
+
+  function currentItems() {
+    var items = state.mode === "pages" ? (DATA.pages || []) : (DATA.sources || []);
+    return items.filter(matches);
+  }
+
+  function card(item) {
+    var el = document.createElement("article");
+    el.className = "card";
+    el.tabIndex = 0;
+    var thumb = document.createElement("div");
+    thumb.className = "thumb " + (state.mode === "pages" ? "pages" : "sources");
+    var img = document.createElement("img");
+    img.loading = "lazy";
+    img.decoding = "async";
+    img.alt = state.mode === "pages" ? (item.title || item.page_id) : item.name;
+    img.src = item.image;
+    img.addEventListener("error", function () { thumb.classList.add("missing"); img.remove(); });
+    thumb.appendChild(img);
+    var body = document.createElement("div");
+    body.className = "card-body";
+    var source = sourceById[item.source_id] || {};
+    var title, chips, detail, id;
+    if (state.mode === "pages") {
+      title = item.title || source.name || item.page_id;
+      chips = [item.batch, item.style, item.layout, item.role].filter(Boolean);
+      if (item.crop_review_needed) chips.push("裁切待复核");
+      if (item.source_partial) chips.push("来源局部／待复核");
+      detail = listText(item.purpose) || "用途未标注";
+      if (item.crop_review_reason) detail += " · " + item.crop_review_reason;
+      id = item.page_id + " · 第 " + item.page_no + " 页";
+    } else {
+      title = item.name || item.source_id;
+      chips = [item.batch, item.source_kind, item.primary_style].filter(Boolean);
+      if (item.crop_review_needed) chips.push("含裁切待复核页");
+      if (item.source_partial) chips.push("含来源局部页");
+      detail = "单页数 " + (item.page_count || 0) + (item.duplicate_of ? " · 重复于 " + item.duplicate_of : "");
+      id = item.source_id;
+    }
+    body.innerHTML = '<h3>' + esc(title) + '</h3>' +
+      '<div class="chips">' + chips.map(function (value) { return '<span class="chip">' + esc(value) + '</span>'; }).join("") + '</div>' +
+      '<p class="detail">' + esc(detail) + '</p>' +
+      '<p class="id">' + esc(id) + '</p>';
+    el.appendChild(thumb);
+    el.appendChild(body);
+    el.addEventListener("click", function () { openModal(item); });
+    el.addEventListener("keydown", function (event) {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        openModal(item);
+      }
+    });
+    return el;
+  }
+
+  function render() {
+    var items = currentItems();
+    var shown = Math.min(state.visible, items.length);
+    $("count").textContent = (state.mode === "pages" ? "单页" : "来源") + " " + shown + " / " + items.length + " 条";
+    var grid = $("grid");
+    grid.innerHTML = "";
+    var empty = $("empty");
+    if (!items.length) {
+      empty.hidden = false;
+      $("more").hidden = true;
+      return;
+    }
+    empty.hidden = true;
+    var fragment = document.createDocumentFragment();
+    items.slice(0, shown).forEach(function (item) { fragment.appendChild(card(item)); });
+    grid.appendChild(fragment);
+    var more = $("more");
+    more.hidden = items.length <= shown;
+    more.textContent = "加载更多（剩余 " + (items.length - shown) + "）";
+  }
+
+  function metaRow(label, value) {
+    if (value === null || value === undefined || value === "") return "";
+    return '<div><dt>' + esc(label) + '</dt><dd>' + esc(value) + '</dd></div>';
+  }
+  function openModal(item) {
+    var source = sourceById[item.source_id] || {};
+    var title = state.mode === "pages" ? (item.title || source.name || item.page_id) : (item.name || item.source_id);
+    var sub = state.mode === "pages"
+      ? [item.batch, item.style, item.layout, item.role].filter(Boolean).join(" · ")
+      : [item.batch, item.source_kind, item.primary_style].filter(Boolean).join(" · ");
+    var rows = [];
+    if (state.mode === "pages") {
+      rows.push(metaRow("单页 ID", item.page_id));
+      rows.push(metaRow("来源 ID", item.source_id));
+      rows.push(metaRow("批次", item.batch));
+      rows.push(metaRow("页码", item.page_no));
+      rows.push(metaRow("风格", item.style));
+      rows.push(metaRow("布局", item.layout));
+      rows.push(metaRow("角色", item.role));
+      rows.push(metaRow("用途", listText(item.purpose)));
+      rows.push(metaRow("置信度", item.confidence));
+      rows.push(metaRow("完整页", item.complete_page ? "是" : "否"));
+      rows.push(metaRow("裁切状态", item.crop_status));
+      rows.push(metaRow("裁切待复核", item.crop_review_needed ? "是（未确认成品）" : "无已记录几何异常"));
+      rows.push(metaRow("复核原因", item.crop_review_reason));
+      rows.push(metaRow("来源局部", item.source_partial ? "是／待复核" : "否"));
+      rows.push(metaRow("不确定项", listText(item.uncertainties)));
+      rows.push(metaRow("尺寸", item.width + " × " + item.height));
+      rows.push(metaRow("SHA256", item.sha256));
+    } else {
+      rows.push(metaRow("来源 ID", item.source_id));
+      rows.push(metaRow("批次", item.batch));
+      rows.push(metaRow("来源类型", item.source_kind));
+      rows.push(metaRow("主风格", item.primary_style));
+      rows.push(metaRow("原选中类别", item.selected_style || "未指定"));
+      rows.push(metaRow("单页数", item.page_count));
+      rows.push(metaRow("重复于", item.duplicate_of || "无"));
+      rows.push(metaRow("SHA256", item.sha256));
+    }
+    $("modal-title").textContent = title;
+    $("modal-sub").textContent = sub;
+    $("modal-meta").innerHTML = rows.join("");
+    $("modal-img").src = item.image;
+    $("modal-img").alt = title;
+    $("modal-open").href = item.image;
+    $("modal").hidden = false;
+    document.body.classList.add("modal-open");
+  }
+  function closeModal() {
+    $("modal").hidden = true;
+    $("modal-img").removeAttribute("src");
+    document.body.classList.remove("modal-open");
+  }
+  function setMode(mode) {
+    state.mode = mode;
+    state.visible = PAGE_SIZE;
+    $("mode-pages").classList.toggle("active", mode === "pages");
+    $("mode-sources").classList.toggle("active", mode === "sources");
+    render();
+  }
+
+  $("mode-pages").addEventListener("click", function () { setMode("pages"); });
+  $("mode-sources").addEventListener("click", function () { setMode("sources"); });
+  ["batch", "style", "layout", "kind", "crop"].forEach(function (id) {
+    $(id).addEventListener("change", function () {
+      state[id] = this.value;
+      state.visible = PAGE_SIZE;
+      render();
+    });
+  });
+  var searchTimer;
+  $("search").addEventListener("input", function () {
+    var value = this.value;
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(function () {
+      state.q = value.trim().toLowerCase();
+      state.visible = PAGE_SIZE;
+      render();
+    }, 120);
+  });
+  $("reset").addEventListener("click", function () {
+    state.batch = "";
+    state.style = "";
+    state.layout = "";
+    state.kind = "";
+    state.crop = "";
+    state.q = "";
+    state.visible = PAGE_SIZE;
+    ["batch", "style", "layout", "kind", "crop"].forEach(function (id) { $(id).value = ""; });
+    $("search").value = "";
+    render();
+  });
+  $("more").addEventListener("click", function () { state.visible += PAGE_SIZE; render(); });
+  $("modal-close").addEventListener("click", closeModal);
+  $("modal").addEventListener("click", function (event) { if (event.target === this) closeModal(); });
+  $("modal-img").addEventListener("error", function () { this.alt = "图片无法加载"; });
+  document.addEventListener("keydown", function (event) {
+    if (event.key === "Escape" && !$("modal").hidden) closeModal();
+  });
+  render();
+})();
+</script>
+</body>
+</html>

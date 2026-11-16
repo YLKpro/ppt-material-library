@@ -1,0 +1,46 @@
+# Credentials and private configuration
+.env
+.env.*
+*.key
+*.pem
+providers.json
+local-credentials.md
+**/local-credentials.md
+**/.env
+**/.env.*
+**/*credential*
+**/*secret*
+**/*private*
+**/*provider*
+**/*token*
+**/*密钥*
+**/*凭据*
+**/*私有配置*
+**/config.json
+**/config.local.*
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+**/id_rsa*
+**/id_ed25519*
+**/.ssh/
+**/tmp/
+**/temp/
+**/.tmp/
+secrets/
+credentials/
+
+# Temporary and cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
+
+# Build scratch
+_build/
+.staging/
