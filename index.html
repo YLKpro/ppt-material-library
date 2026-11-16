@@ -141,15 +141,15 @@ input[type="search"]:focus, select:focus { outline: 2px solid rgba(15,118,110,.2
   <div class="wrap">
     <p class="eyebrow">分类浏览库 · 公开精简包</p>
     <h1>PPT 素材浏览库</h1>
-    <p class="sub">700 张第六轮 + 52 张第二版选中（旧类原图） · 只做分类与裁切，不做质量评分；单页清晰度受来源缩略页限制。</p>
+    <p class="sub">30 张第六轮 + 52 张第二版选中（旧类原图） · 已按用户指定精美正例筛选来源与单页，不打质量分；单页清晰度受来源缩略页限制。</p>
     <div id="stats" class="stats"></div>
   </div>
 </header>
 <main class="wrap">
   <section class="toolbar" aria-label="筛选工具">
     <div class="modes" role="group" aria-label="视图切换">
-      <button id="mode-pages" class="mode active" type="button">单页</button>
-      <button id="mode-sources" class="mode" type="button">原图</button>
+      <button id="mode-pages" class="mode" type="button">单页</button>
+      <button id="mode-sources" class="mode active" type="button">原图</button>
     </div>
     <input id="search" type="search" placeholder="搜索标题、用途、风格、布局、ID…" autocomplete="off">
     <select id="batch" aria-label="批次"><option value="">全部批次</option></select>
@@ -167,7 +167,7 @@ input[type="search"]:focus, select:focus { outline: 2px solid rgba(15,118,110,.2
   <div id="empty" class="empty" hidden>没有匹配的记录。</div>
   <div class="more-wrap"><button id="more" class="more" type="button" hidden>加载更多</button></div>
   <footer class="foot">
-    <p>2026-11-17 00:46:03 +0800 · 本包不授予第三方图片开源或商用许可。<a href="MATERIALS-RIGHTS.md">素材权利说明</a> · <a href="README.md">使用说明</a></p>
+    <p>2026-11-17 01:52:11 +0800 · 本包不授予第三方图片开源或商用许可。<a href="MATERIALS-RIGHTS.md">素材权利说明</a> · <a href="README.md">使用说明</a></p>
     <p>分类为自动候选；单页来自缩略页裁切，清晰度受来源限制；未做质量评分。</p>
   </footer>
 </main>
@@ -189,7 +189,7 @@ input[type="search"]:focus, select:focus { outline: 2px solid rgba(15,118,110,.2
   "use strict";
   var DATA = window.MATERIAL_LIBRARY;
   var PAGE_SIZE = 120;
-  var state = { mode: "pages", batch: "", style: "", layout: "", kind: "", crop: "", q: "", visible: PAGE_SIZE };
+  var state = { mode: "sources", batch: "", style: "", layout: "", kind: "", crop: "", q: "", visible: PAGE_SIZE };
   var sourceById = Object.create(null);
   var $ = function (id) { return document.getElementById(id); };
   var esc = function (value) {
