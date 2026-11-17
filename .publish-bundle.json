@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "generator": "publish_bundle.py",
-  "generated_at": "2026-11-17 01:52:11 +0800",
-  "source_catalog_version": "2026-11-16.2",
+  "generated_at": "2026-11-17 09:31:09 +0800",
+  "source_catalog_version": "merge-user-approved-v1-20261117.1",
   "counts": {
-    "sources": 82,
-    "pages": 168
+    "sources": 213,
+    "pages": 586
   },
   "generated_paths": [
     "index.html",

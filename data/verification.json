@@ -1,26 +1,20 @@
 {
-  "scope": "按用户精美正例重新筛选后的正式库",
-  "sources": 82,
-  "pages": 168,
-  "unique_jpegs": 250,
+  "scope": "129 张第一版 + 54 张第二版 + 82 张第三版（含跨版本重合，去重后 213 张）",
+  "sources": 213,
+  "pages": 586,
+  "unique_jpegs": 799,
   "credential_scan_passed": true,
   "private_paths_removed": true,
   "source_integrity_audit_passed": true,
   "all_original_hashes_verified": true,
-  "beauty_admission": {
-    "version": "reference-beauty-admission-20261117-v1",
-    "reference_categories": [
-      "科技",
-      "中国风"
-    ],
-    "evaluated_sources": 752,
-    "evaluated_pages": 5253,
-    "kept_sources": 82,
-    "removed_sources": 670,
-    "kept_pages": 168,
-    "removed_pages": 5085,
-    "method": "用户正例对照、来源视觉筛选、逐页视觉筛选及几何完整性门槛；未打质量分",
-    "human_verified_all": false
+  "originals_verified": 353,
+  "all_first_version_sources_included": true,
+  "version_counts": {
+    "第一版": 129,
+    "第二版": 54,
+    "第三版": 82
   },
-  "package_tests_passed": 7
+  "recropped_pages": 93,
+  "held_partial_pages": 9,
+  "package_tests_passed": 41
 }

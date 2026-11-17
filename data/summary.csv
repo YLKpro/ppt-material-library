@@ -1,25 +1,26 @@
 ﻿key,value
 schema_version,1
-generated_at,2026-11-17 01:52:11 +0800
-scope,30 张第六轮 + 52 张第二版选中（旧类原图）
-batch_counts,第六轮=30；第二版选中=52
-source_count,82
-page_count,168
-unique_source_images,82
+generated_at,2026-11-17 09:31:09 +0800
+scope,129 张第一版 + 54 张第二版 + 82 张第三版（含跨版本重合，去重后 213 张）
+batch_counts,第一版=129；第二版=54；第三版=30
+version_counts,第一版=129；第二版=54；第三版=82
+source_count,213
+page_count,586
+unique_source_images,213
 exact_pixel_duplicates,0
-sources_with_pages,45
-complete_pages,168
+sources_with_pages,175
+complete_pages,586
 partial_pages,0
 crop_review_needed,0
-unique_jpegs,250
-small_pages,101
-source_kind_counts,多页预览=78；教程=0；背景素材=0；推广或其他=0；单页=4；设计素材=0
-page_style_counts,中国风=91；科技=63；商务简约=13；活力创意=1
-source_style_counts,科技=52；中国风=21；商务简约=8；活力创意=1
-layout_counts,左右分区=52；复合分区=48；上下分区=20；多栏=16；中心环绕=11；网格=11；通栏大图=6；单一主体=4
-role_counts,内容页=118；封面=30；目录=20
+unique_jpegs,799
+small_pages,279
+source_kind_counts,多页预览=209；教程=0；背景素材=0；推广或其他=0；单页=4；设计素材=0
+page_style_counts,科技=226；中国风=216；商务简约=126；未确定=10；杂志编辑=4；活力创意=2；卡通插画=1；极简=1
+source_style_counts,科技=108；中国风=69；商务简约=34；未确定=1；活力创意=1
+layout_counts,复合分区=229；左右分区=154；上下分区=57；多栏=53；中心环绕=35；网格=23；通栏大图=22；单一主体=12；自由错落=1
+role_counts,内容页=487；封面=63；目录=23；结尾=10；章节过渡=3
 classification_only,否
-beauty_admission,"version=reference-beauty-admission-20261117-v1；reference_categories=['科技', '中国风']；evaluated_sources=752；evaluated_pages=5253；kept_sources=82；removed_sources=670；kept_pages=168；removed_pages=5085；method=用户正例对照、来源视觉筛选、逐页视觉筛选及几何完整性门槛；未打质量分；human_verified_all=False"
+beauty_admission,version=merge-user-approved-v1-20261117.1；description=第一版129张图片全部按用户确认纳入；第二版补充图按精美正例筛选，第三版沿用正式精选；相同原图去重并保留版本记录。仅裁切几何异常单页暂缓，不对第一版进行审美淘汰。；method=用户确认+已有精选+视觉筛选+裁切几何复查；human_verified_all=False
 quality_scored,否
 cropped_from_thumbnails,是
-notes,已按用户指定的科技/中国风精美正例筛选来源与单页，不符合者移出正式库；不打质量分。；单页来自缩略页或拼图裁切，清晰度受来源缩略页限制。；分类为自动候选，未逐页人工认证。；第三方图片权利归原作者或权利人，本包不授予开源、商用或再分发许可。
+notes,第一版129张图片全部按用户确认纳入；第二版补充图按精美正例筛选，第三版沿用正式精选；相同原图去重并保留版本记录。仅裁切几何异常单页暂缓，不对第一版进行审美淘汰。；单页来自缩略页或拼图裁切，清晰度受来源缩略页限制。；分类为自动候选，未逐页人工认证。；第三方图片权利归原作者或权利人，本包不授予开源、商用或再分发许可。
