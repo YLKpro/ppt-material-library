@@ -1,20 +1,28 @@
 {
-  "scope": "129 张第一版 + 54 张第二版 + 82 张第三版（含跨版本重合，去重后 213 张）",
-  "sources": 213,
-  "pages": 586,
-  "unique_jpegs": 799,
+  "scope": "第一版全部保留，第二三版精选与新增小红书精美PPT去重合并",
+  "sources": 252,
+  "pages": 761,
+  "unique_jpegs": 1013,
   "credential_scan_passed": true,
   "private_paths_removed": true,
   "source_integrity_audit_passed": true,
   "all_original_hashes_verified": true,
-  "originals_verified": 353,
+  "originals_verified": 1174,
   "all_first_version_sources_included": true,
   "version_counts": {
     "第一版": 129,
     "第二版": 54,
-    "第三版": 82
+    "第三版": 82,
+    "小红书精美PPT": 64
   },
-  "recropped_pages": 93,
-  "held_partial_pages": 9,
-  "package_tests_passed": 41
+  "increment": {
+    "new_sources": 39,
+    "new_pages": 175,
+    "source_reused": 25,
+    "near_duplicate_pages_omitted": 45,
+    "held_pages": 28,
+    "partial_pages": 16,
+    "structure_analyzed": 175
+  },
+  "package_tests_passed": 24
 }
