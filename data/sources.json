@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17 11:24:39 +0800",
-  "count": 252,
+  "generated_at": "2026-11-27 16:46:14 +0800",
+  "count": 306,
   "sources": [
     {
       "source_id": "img-001-14413234472d",
@@ -29,6 +29,8 @@
         "中心环绕": 1,
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -61,6 +63,8 @@
         "单一主体": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -93,6 +97,8 @@
         "上下分区": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -126,6 +132,8 @@
         "中心环绕": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -159,6 +167,8 @@
         "自由错落": 1,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -194,6 +204,8 @@
         "左右分区": 3,
         "多栏": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -227,6 +239,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -259,6 +273,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -290,6 +306,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -321,6 +339,8 @@
       "layout_distribution": {
         "左右分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -358,6 +378,8 @@
         "上下分区": 1,
         "网格": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -394,6 +416,8 @@
         "单一主体": 1,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -429,6 +453,8 @@
         "多栏": 3,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -466,6 +492,8 @@
         "多栏": 2,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -499,6 +527,8 @@
         "左右分区": 1,
         "复合分区": 9
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -532,6 +562,8 @@
         "中心环绕": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -563,6 +595,8 @@
       "layout_distribution": {
         "复合分区": 3
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -596,6 +630,8 @@
         "中心环绕": 1,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -629,6 +665,8 @@
         "复合分区": 3,
         "网格": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -661,6 +699,8 @@
         "复合分区": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -692,6 +732,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -727,6 +769,8 @@
         "左右分区": 1,
         "网格": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -758,6 +802,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -789,6 +835,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -823,6 +871,8 @@
         "多栏": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -854,6 +904,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -885,6 +937,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -919,6 +973,8 @@
         "上下分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -951,6 +1007,8 @@
         "复合分区": 1,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -983,6 +1041,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1015,6 +1075,8 @@
         "左右分区": 2,
         "复合分区": 3
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1046,6 +1108,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1077,6 +1141,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1111,6 +1177,8 @@
         "上下分区": 2,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1143,6 +1211,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1174,6 +1244,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1205,6 +1277,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1237,6 +1311,8 @@
         "上下分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1269,6 +1345,8 @@
         "复合分区": 1,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1301,6 +1379,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1333,6 +1413,8 @@
         "左右分区": 4,
         "上下分区": 3
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1365,6 +1447,8 @@
         "复合分区": 1,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1396,6 +1480,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1428,6 +1514,8 @@
         "复合分区": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1460,6 +1548,8 @@
         "复合分区": 1,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1493,6 +1583,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1525,6 +1617,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1557,6 +1651,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1589,6 +1685,8 @@
         "上下分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1621,6 +1719,8 @@
         "左右分区": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1653,6 +1753,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1684,6 +1786,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1717,6 +1821,8 @@
         "上下分区": 1,
         "通栏大图": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1751,6 +1857,8 @@
         "左右分区": 4,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1783,6 +1891,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1815,6 +1925,8 @@
         "复合分区": 1,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1847,6 +1959,8 @@
         "复合分区": 1,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1879,6 +1993,8 @@
         "复合分区": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1910,6 +2026,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1942,6 +2060,8 @@
         "左右分区": 1,
         "通栏大图": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -1979,6 +2099,8 @@
         "复合分区": 1,
         "上下分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2010,6 +2132,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2041,6 +2165,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2072,6 +2198,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2104,6 +2232,8 @@
         "复合分区": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2135,6 +2265,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2167,6 +2299,8 @@
         "中心环绕": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2203,6 +2337,8 @@
         "多栏": 3,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2234,6 +2370,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2266,6 +2404,8 @@
         "复合分区": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2298,6 +2438,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2329,6 +2471,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2361,6 +2505,8 @@
         "上下分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2394,6 +2540,8 @@
         "复合分区": 1,
         "通栏大图": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2429,6 +2577,8 @@
         "多栏": 2,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2461,6 +2611,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2492,6 +2644,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2524,6 +2678,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2562,6 +2718,8 @@
         "网格": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2594,6 +2752,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2627,6 +2787,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2658,6 +2820,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2690,6 +2854,8 @@
         "网格": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2722,6 +2888,8 @@
         "左右分区": 1,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2755,6 +2923,8 @@
         "复合分区": 1,
         "通栏大图": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2790,6 +2960,8 @@
         "网格": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2821,6 +2993,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2853,6 +3027,8 @@
         "复合分区": 1,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2884,6 +3060,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2916,6 +3094,8 @@
         "复合分区": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2947,6 +3127,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -2979,6 +3161,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3015,6 +3199,8 @@
         "中心环绕": 2,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3047,6 +3233,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3079,6 +3267,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3111,6 +3301,8 @@
         "中心环绕": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3142,6 +3334,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3173,6 +3367,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3205,6 +3401,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3239,6 +3437,8 @@
         "复合分区": 2,
         "网格": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3270,6 +3470,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3301,6 +3503,8 @@
       "layout_distribution": {
         "上下分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3333,6 +3537,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3365,6 +3571,8 @@
         "复合分区": 1,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3398,6 +3606,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3430,6 +3640,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3462,6 +3674,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3494,6 +3708,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3526,6 +3742,8 @@
         "中心环绕": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3558,6 +3776,8 @@
         "复合分区": 1,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3590,6 +3810,8 @@
         "左右分区": 5,
         "复合分区": 3
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3622,6 +3844,8 @@
         "左右分区": 1,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3654,6 +3878,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3686,6 +3912,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3718,6 +3946,8 @@
         "复合分区": 1,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3750,6 +3980,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3782,6 +4014,8 @@
         "复合分区": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3813,6 +4047,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3844,6 +4080,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3879,6 +4117,8 @@
         "多栏": 1,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3911,6 +4151,8 @@
         "多栏": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3943,6 +4185,8 @@
         "中心环绕": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -3974,6 +4218,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4005,6 +4251,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4039,6 +4287,8 @@
         "复合分区": 1,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4070,6 +4320,8 @@
       "layout_distribution": {
         "左右分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4102,6 +4354,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4134,6 +4388,8 @@
         "复合分区": 1,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4165,6 +4421,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4197,6 +4455,8 @@
       "layout_distribution": {
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4229,6 +4489,8 @@
       "layout_distribution": {
         "中心环绕": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4265,6 +4527,8 @@
         "上下分区": 1,
         "网格": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4298,6 +4562,8 @@
         "复合分区": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4331,6 +4597,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4363,6 +4631,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4395,6 +4665,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4429,6 +4701,8 @@
         "左右分区": 1,
         "上下分区": 7
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4465,6 +4739,8 @@
         "网格": 1,
         "左右分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4502,6 +4778,8 @@
         "网格": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4538,6 +4816,8 @@
         "多栏": 2,
         "左右分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4566,6 +4846,8 @@
       "image": "images/sources/c79913b5e05c8a84058e9a48f1dd24539d828c237b2fb3be6cc7f41b8863a7f9.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -4592,6 +4874,8 @@
       "image": "images/sources/9a0818b16c0a43cef065744ed96cc4796fa34e48e642daa32c0cbbac4d90074e.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -4618,6 +4902,8 @@
       "image": "images/sources/efebcd8c6ea8d1dfe8c9ed6dbb218b9697cb044f23f1ed210b8536ffdbbb26c4.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -4644,6 +4930,8 @@
       "image": "images/sources/8cea3c9fa0fc0e0290a4b6c9429c7a9422c2c9f53111e0bf68c650aa48fb5225.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -4678,6 +4966,8 @@
         "多栏": 1,
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4713,6 +5003,8 @@
         "上下分区": 3,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4748,6 +5040,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4780,6 +5074,8 @@
       "layout_distribution": {
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4812,6 +5108,8 @@
       "layout_distribution": {
         "左右分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4844,6 +5142,8 @@
       "layout_distribution": {
         "通栏大图": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4872,6 +5172,8 @@
       "image": "images/sources/bbc15fd75ad5ae890be02be3ac191af25820d7c11f6265c54784291c19b27091.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -4901,6 +5203,8 @@
       "layout_distribution": {
         "通栏大图": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -4929,6 +5233,8 @@
       "image": "images/sources/c104b5e0fd7ed82e8059d9c1d71f361c57318362dbf2dd3681e6d4b1a3bbc9d5.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -4955,6 +5261,8 @@
       "image": "images/sources/6c0dbfb64c4716c7a8f751d2bbccbba9320344fff6025f103c0c62cdd307310e.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -4989,6 +5297,8 @@
         "左右分区": 3,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -5023,6 +5333,8 @@
         "复合分区": 3,
         "网格": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -5055,6 +5367,8 @@
       "layout_distribution": {
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -5087,6 +5401,8 @@
       "layout_distribution": {
         "左右分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -5115,6 +5431,8 @@
       "image": "images/sources/3e9c8593eaa943390ce14656fdc364ca5dd39912e078d2e6346d0fcf98a95811.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5141,6 +5459,8 @@
       "image": "images/sources/49bf9496a0601e2bdacf52450b46a52bd59d47d36d65292a68a76a51331529d7.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5167,6 +5487,8 @@
       "image": "images/sources/c503a1a6496f5166b0e51833f75cf76e4113331ba3d21bf60f094695bde9c804.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5193,6 +5515,8 @@
       "image": "images/sources/75a8d15655698e6da20b2b82585f87cf8979dd7f3c02be97ae0a792c816d19f7.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5219,6 +5543,8 @@
       "image": "images/sources/460d53318271ff5227c7407541e3cd3bce51a0edc42d600e227402bdd4d071dd.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5245,6 +5571,8 @@
       "image": "images/sources/ca311398ce6d6a141f4031e12369eaa1696d94f14569474b064238ebca483ed9.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5271,6 +5599,8 @@
       "image": "images/sources/2bfc86ef031bb5f88e4995ed720fe29d8a60c9c456dfb14dba2369acf2d165cb.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5297,6 +5627,8 @@
       "image": "images/sources/062df5901ab06cb3cb3fdffb22aad5f26d55aa5b37dc8afb731a40c71484d00a.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5322,6 +5654,8 @@
       "image": "images/sources/f3662f78b944d3a4ad97dc15ba8f4ef33f9e37c810a83141c012c16aea8e39ab.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5348,6 +5682,8 @@
       "image": "images/sources/f839afd51d6fb009360c1716bdec3305f58c0dc0a6239fb47df0f80b2c22c9b6.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5374,6 +5710,8 @@
       "image": "images/sources/0b9d5f712c69a82b5b7681afab51327d50d72afe02059c5dfc6f0eadf123d3d8.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5400,6 +5738,8 @@
       "image": "images/sources/de49bfa822a64fcad7782fb1b6b8e1804cae299b14399e7c5ffda3b4eaf30c33.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5426,6 +5766,8 @@
       "image": "images/sources/5f759d34a4df2ca3f0f62bd8d209986eaea480b4e162889b9be3475ea542770f.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5452,6 +5794,8 @@
       "image": "images/sources/9a41bcbc29babc551b9bc464ae01e833e5db39dd1054af215f28e87a38af89b0.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5478,6 +5822,8 @@
       "image": "images/sources/570698256a5c5a2b8e9b7daebfa4db7603c77adb34890933197bca495f489766.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5504,6 +5850,8 @@
       "image": "images/sources/1ef63801b4a9d871d020ebc010c7f81f2d9fff34722acba46cff0aa656a04de6.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5530,6 +5878,8 @@
       "image": "images/sources/2adcc1af84c016114c0a9618c3b6c9068e5f7d2172bd72207b28fec60d2d8648.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5556,6 +5906,8 @@
       "image": "images/sources/437f885f4fccbc6e5443e5a0281d35c0a758f67a60cb65f43a3b07249e4ca9c8.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5582,6 +5934,8 @@
       "image": "images/sources/8e320821f27cb3b416a5242b9e595535a89699ed68bacd134d181e09ce1aca0d.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5608,6 +5962,8 @@
       "image": "images/sources/b78f368f3129a7e283a19ba1fe1a6bdc538c7d04c25b91a352ef7acf6aba5ab3.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5634,6 +5990,8 @@
       "image": "images/sources/0f111f281c76910b354c20f8cd6d7004bd48af22238122c45821495ecf8dc96b.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5660,6 +6018,8 @@
       "image": "images/sources/078dfc03f6117f2f84045dcb12a08dd663e358738619015d9b9be43fa80a4de7.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5690,6 +6050,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -5718,6 +6080,8 @@
       "image": "images/sources/c13a72f3a989bc4e7aec44582d46483ce65f9401744eb8493634d50dd9a1e55e.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5744,6 +6108,8 @@
       "image": "images/sources/fe5544eb06b726cfa4ec96b07c35977a3485d088f8a5a21619c1c1c155d31512.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5770,6 +6136,8 @@
       "image": "images/sources/3cbd81654126673a8f723974e10f08270ea732f2c98b6ed2645804a80f25acb0.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5796,6 +6164,8 @@
       "image": "images/sources/62739caee6313a8e180379d96d7755abd55dbf907d2002026b996f18615fc3db.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5827,6 +6197,8 @@
         "复合分区": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -5855,6 +6227,8 @@
       "image": "images/sources/401c6748565c4f439958441859ece9735377f95e9c10b76cd182bbbdfe7fa44b.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -5884,6 +6258,8 @@
       "layout_distribution": {
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -5916,6 +6292,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -5948,6 +6326,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -5980,6 +6360,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6013,6 +6395,8 @@
         "网格": 2,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6047,6 +6431,8 @@
         "复合分区": 2,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6079,6 +6465,8 @@
       "layout_distribution": {
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6113,6 +6501,8 @@
         "上下分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6140,6 +6530,8 @@
       "image": "images/sources/2da2d7a48350382eab7257acba6935f9d09996f6865deb2d43487872381fdb8e.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -6166,6 +6558,8 @@
       "image": "images/sources/2dbac0d875d2bbe48bc8633077b76407173dd9f09dd60fb1a55a940ad5e0bd9a.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -6199,6 +6593,8 @@
         "多栏": 2,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6231,6 +6627,8 @@
       "layout_distribution": {
         "左右分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6269,6 +6667,8 @@
         "多栏": 1,
         "中心环绕": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6297,6 +6697,8 @@
       "image": "images/sources/20e92c3cb2ccda720512691fe6314aee40c38a5dfe2371bfcbbf223f92daee13.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -6327,6 +6729,8 @@
       "layout_distribution": {
         "左右分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6359,6 +6763,8 @@
       "layout_distribution": {
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6391,6 +6797,8 @@
       "layout_distribution": {
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6426,6 +6834,8 @@
         "左右分区": 2,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6458,6 +6868,8 @@
       "layout_distribution": {
         "通栏大图": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6490,6 +6902,8 @@
       "layout_distribution": {
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6518,6 +6932,8 @@
       "image": "images/sources/0a453b9cdb9a59272f088cbd6b1cca708183f4173bab43eecd9036ecd3947362.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -6549,6 +6965,8 @@
         "左右分区": 3,
         "复合分区": 4
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6584,6 +7002,8 @@
         "复合分区": 1,
         "左右分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6616,6 +7036,8 @@
         "通栏大图": 1,
         "网格": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6647,6 +7069,8 @@
       "layout_distribution": {
         "单一主体": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6678,6 +7102,8 @@
       "layout_distribution": {
         "单一主体": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6711,6 +7137,8 @@
         "复合分区": 1,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6745,6 +7173,8 @@
         "复合分区": 9,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6778,6 +7208,8 @@
         "上下分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6809,6 +7241,8 @@
       "layout_distribution": {
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6841,6 +7275,8 @@
         "多栏": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6873,6 +7309,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6905,6 +7343,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6938,6 +7378,8 @@
         "复合分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -6970,6 +7412,8 @@
       "layout_distribution": {
         "复合分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7003,6 +7447,8 @@
         "复合分区": 2,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7038,6 +7484,8 @@
         "中心环绕": 1,
         "左右分区": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7073,6 +7521,8 @@
         "复合分区": 6,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7106,6 +7556,8 @@
         "上下分区": 1,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7140,6 +7592,8 @@
         "左右分区": 3,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7171,6 +7625,8 @@
       "layout_distribution": {
         "复合分区": 5
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7202,6 +7658,8 @@
       "layout_distribution": {
         "复合分区": 5
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7233,6 +7691,8 @@
       "layout_distribution": {
         "复合分区": 5
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7266,6 +7726,8 @@
         "复合分区": 4,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7297,6 +7759,8 @@
       "layout_distribution": {
         "复合分区": 5
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7324,6 +7788,8 @@
       "image": "images/sources/f7279061dea45c04b8bab79bd7b162f53f1ff01e34379e1b2cb51ca4e3e03ad0.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -7356,6 +7822,8 @@
         "左右分区": 1,
         "上下分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7390,6 +7858,8 @@
         "左右分区": 1,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7423,6 +7893,8 @@
         "复合分区": 8,
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7456,6 +7928,8 @@
         "左右分区": 5,
         "复合分区": 3
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7490,6 +7964,8 @@
         "左右分区": 3,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7522,6 +7998,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7556,6 +8034,8 @@
         "左右分区": 2,
         "复合分区": 7
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7590,6 +8070,8 @@
         "上下分区": 2,
         "多栏": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7623,6 +8105,8 @@
         "复合分区": 4,
         "多栏": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7657,6 +8141,8 @@
         "复合分区": 4,
         "多栏": 2
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7689,6 +8175,8 @@
         "左右分区": 1,
         "多栏": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7721,6 +8209,8 @@
         "左右分区": 1,
         "复合分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7755,6 +8245,8 @@
         "复合分区": 2,
         "左右分区": 4
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7788,6 +8280,8 @@
         "左右分区": 1,
         "自由错落": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7815,6 +8309,8 @@
       "image": "images/sources/8685700d4f533447a6db3ee5eb4f905a15d46401667fc561ed308c4d7258f1ca.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -7844,6 +8340,8 @@
       "layout_distribution": {
         "左右分区": 1
       },
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [
         "normal"
       ],
@@ -7871,6 +8369,8 @@
       "image": "images/sources/a08211bf1d4f58d38560ba53f55624b386e068b37d843b740f5154c7d8b11b05.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -7896,6 +8396,8 @@
       "image": "images/sources/133db83deb2938833e282478396b5ac165886b6713f14bb11dea0c6a3efce1f7.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
@@ -7921,12 +8423,1958 @@
       "image": "images/sources/00bee7671e7ff37ff8d78d7050b01dc208c7320072cc3564eae5848b5b32a8ab.jpg",
       "style_distribution": {},
       "layout_distribution": {},
+      "scores": {},
+      "quality_score": null,
       "crop_statuses": [],
       "crop_review_needed": false,
       "source_partial": false,
       "image_sha256": "00bee7671e7ff37ff8d78d7050b01dc208c7320072cc3564eae5848b5b32a8ab",
       "width": 1080,
       "height": 1440
+    },
+    {
+      "source_id": "yx-04f8060ff20cea22",
+      "unit_id": "yx-04f8060ff20cea22",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "04f8060ff20cea229300cb66fea6513451bbbaa1f44e3818137dc8d8c737c03e",
+      "page_count": 144,
+      "duplicate_of": null,
+      "name": "铝焊新擎——搅拌摩擦焊技术的领军者",
+      "file_name": "铝焊新擎——搅拌摩擦焊技术的领军者.pdf",
+      "image": "images/sources/e02249bf1b91252669d817b4df104a147a7f1079e38693cb5dcc2d895de89f08.jpg",
+      "style_distribution": {
+        "科技": 144
+      },
+      "layout_distribution": {
+        "未确定": 144
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "e02249bf1b91252669d817b4df104a147a7f1079e38693cb5dcc2d895de89f08",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-06a6bc4992b8114a",
+      "unit_id": "yx-06a6bc4992b8114a",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "06a6bc4992b8114af7ac15ce5aabaa355937c14ba0b547e629ef3e403bd35e10",
+      "page_count": 224,
+      "duplicate_of": null,
+      "name": "隔以永治—基于电磁隔离技术的智能安全用电保护系统",
+      "file_name": "隔以永治—基于电磁隔离技术的智能安全用电保护系统.pdf",
+      "image": "images/sources/2be8af27a8ba5d6a800c5c0af7a648cd84c0bf7e14e742ad8bfecae7fcf2583b.jpg",
+      "style_distribution": {
+        "科技": 224
+      },
+      "layout_distribution": {
+        "未确定": 224
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "2be8af27a8ba5d6a800c5c0af7a648cd84c0bf7e14e742ad8bfecae7fcf2583b",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-0a0dd0531eb52dc0",
+      "unit_id": "yx-0a0dd0531eb52dc0",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "0a0dd0531eb52dc07ae0717c9e005a8348afa0bd1b632c4271f3c42de6f4bcab",
+      "page_count": 48,
+      "duplicate_of": null,
+      "name": "!!!!液动无限—超高压液压泵阀及柔性泵站领航者",
+      "file_name": "!!!!液动无限—超高压液压泵阀及柔性泵站领航者.pptx",
+      "image": "images/sources/beda176a0298106a226f4b66df3244e7ce9947b7b23f8bc283441996c69ce173.jpg",
+      "style_distribution": {
+        "科技": 48
+      },
+      "layout_distribution": {
+        "未确定": 48
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "beda176a0298106a226f4b66df3244e7ce9947b7b23f8bc283441996c69ce173",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-0c4c42df38e9e4f3",
+      "unit_id": "yx-0c4c42df38e9e4f3",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "0c4c42df38e9e4f32393047d6281f0c883f3a948e3943248f224f303c002ffb6",
+      "page_count": 148,
+      "duplicate_of": null,
+      "name": "土检先锋——高射频土壤质荷分析技术领航者",
+      "file_name": "土检先锋——高射频土壤质荷分析技术领航者.pdf",
+      "image": "images/sources/7330da1b1ff7cdf05086673c294433853c20aea58cbd772378c3eb153fb3e496.jpg",
+      "style_distribution": {
+        "科技": 148
+      },
+      "layout_distribution": {
+        "未确定": 148
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "7330da1b1ff7cdf05086673c294433853c20aea58cbd772378c3eb153fb3e496",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-120bb266d240b180",
+      "unit_id": "yx-120bb266d240b180",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "120bb266d240b18075a0026feb52642f8363b6ce770ed38c7f8559e7ca41f2a2",
+      "page_count": 37,
+      "duplicate_of": null,
+      "name": "寰宇畅联——空天地一体化太赫兹_激光融合通信革新者",
+      "file_name": "寰宇畅联——空天地一体化太赫兹_激光融合通信革新者.pptx",
+      "image": "images/sources/d29a7c8cc3b613e45fb8b0aa37f90e989c27cd96264c2b9940a22bea7f483f38.jpg",
+      "style_distribution": {
+        "科技": 37
+      },
+      "layout_distribution": {
+        "未确定": 37
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "d29a7c8cc3b613e45fb8b0aa37f90e989c27cd96264c2b9940a22bea7f483f38",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-1214ff761240885a",
+      "unit_id": "yx-1214ff761240885a",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "1214ff761240885a9469e7fe16927696d91ba11ea7e8716fa12a03d0d05f52d7",
+      "page_count": 44,
+      "duplicate_of": null,
+      "name": "星语芯援—基于EEG-HRV联合分析的ASD干预设备引领者",
+      "file_name": "星语芯援—基于EEG-HRV联合分析的ASD干预设备引领者.pptx",
+      "image": "images/sources/b86dbf574e1ae4201e798a0e2f54fe21fbad37aa07db07906a3405ad994a4071.jpg",
+      "style_distribution": {
+        "科技": 44
+      },
+      "layout_distribution": {
+        "未确定": 44
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "b86dbf574e1ae4201e798a0e2f54fe21fbad37aa07db07906a3405ad994a4071",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-1445f635e4ea3082",
+      "unit_id": "yx-1445f635e4ea3082",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "1445f635e4ea30826c1522c983496446758da03fe4a2b3b41cb15805dee177b4",
+      "page_count": 38,
+      "duplicate_of": null,
+      "name": "“氢探”科技——新一代核电氢气高效稳定取样装置",
+      "file_name": "“氢探”科技——新一代核电氢气高效稳定取样装置.pptx",
+      "image": "images/sources/56f589d4652075e95a5f71e5e6e82e784a9ad73cd395193cc6b997d15ffd52cc.jpg",
+      "style_distribution": {
+        "科技": 38
+      },
+      "layout_distribution": {
+        "未确定": 38
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "56f589d4652075e95a5f71e5e6e82e784a9ad73cd395193cc6b997d15ffd52cc",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-14d55780b418d55c",
+      "unit_id": "yx-14d55780b418d55c",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "14d55780b418d55c0f248539efa01b92687263344efe08260a6e7089d5e02be3",
+      "page_count": 33,
+      "duplicate_of": null,
+      "name": "1_改交仿科技-互联网-产业赛道_121(4)",
+      "file_name": "1_改交仿科技-互联网-产业赛道_121(4).pdf",
+      "image": "images/sources/df4b527455b555059e3f7d6f2df335e2d0f4273b1790bd0f0fe6fd3667edf97f.jpg",
+      "style_distribution": {
+        "科技": 33
+      },
+      "layout_distribution": {
+        "未确定": 33
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "df4b527455b555059e3f7d6f2df335e2d0f4273b1790bd0f0fe6fd3667edf97f",
+      "width": 1000,
+      "height": 563
+    },
+    {
+      "source_id": "yx-215f7204f9a61c07",
+      "unit_id": "yx-215f7204f9a61c07",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "215f7204f9a61c0714ed098c0cd6fb6b052fdcd3e22c2a8642c86c52519cfcba",
+      "page_count": 40,
+      "duplicate_of": null,
+      "name": "“芯兴之火”——基于自主一体化设计的超集成射频芯片模组",
+      "file_name": "“芯兴之火”——基于自主一体化设计的超集成射频芯片模组.pptx",
+      "image": "images/sources/0211c338b9c59ab4a59ac38500ae58cbf971760ac3cee0fcca15c8216fe0062c.jpg",
+      "style_distribution": {
+        "科技": 40
+      },
+      "layout_distribution": {
+        "未确定": 40
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "0211c338b9c59ab4a59ac38500ae58cbf971760ac3cee0fcca15c8216fe0062c",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-25bda3bb6c6ef0d9",
+      "unit_id": "yx-25bda3bb6c6ef0d9",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "25bda3bb6c6ef0d9d1858d58671d3d7b0c18a8c7fdd2f6c43f966eb4594d04f6",
+      "page_count": 38,
+      "duplicate_of": null,
+      "name": "!!!!竹智凌云——低成本轻量化可降解竹材料无人机",
+      "file_name": "!!!!竹智凌云——低成本轻量化可降解竹材料无人机.pptx",
+      "image": "images/sources/d13ee8c50f5ff6d55afd195d460232e713a32645d81034bc908dde8f3e0f47f0.jpg",
+      "style_distribution": {
+        "科技": 38
+      },
+      "layout_distribution": {
+        "未确定": 38
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "d13ee8c50f5ff6d55afd195d460232e713a32645d81034bc908dde8f3e0f47f0",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-25efc3f52d0a188d",
+      "unit_id": "yx-25efc3f52d0a188d",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "25efc3f52d0a188d048bde69224547661835883539116a101bbb5c3b2f764bce",
+      "page_count": 158,
+      "duplicate_of": null,
+      "name": "液动无限—超高压液压泵阀及柔性泵站领航者",
+      "file_name": "液动无限—超高压液压泵阀及柔性泵站领航者.pdf",
+      "image": "images/sources/86d54085d344647a5e874245b92d1f4bc68ca7b20f1b95904de95d60045b1c78.jpg",
+      "style_distribution": {
+        "科技": 158
+      },
+      "layout_distribution": {
+        "未确定": 158
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "86d54085d344647a5e874245b92d1f4bc68ca7b20f1b95904de95d60045b1c78",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-294a3602e0218b90",
+      "unit_id": "yx-294a3602e0218b90",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "294a3602e0218b901259c5092fbd54258f11489abe9f008146ce88800fb24116",
+      "page_count": 45,
+      "duplicate_of": null,
+      "name": "“膜”力污水净化——可见光响应的银_镧_二氧化钛纳米棒阵列膜材料开发",
+      "file_name": "“膜”力污水净化——可见光响应的银_镧_二氧化钛纳米棒阵列膜材料开发.pptx",
+      "image": "images/sources/3c19981000e8ec1e21fecffccd536fe3291eb7db3784ec8000c0079ad1744a98.jpg",
+      "style_distribution": {
+        "科技": 45
+      },
+      "layout_distribution": {
+        "未确定": 45
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "3c19981000e8ec1e21fecffccd536fe3291eb7db3784ec8000c0079ad1744a98",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-2a4e5ef17b25becb",
+      "unit_id": "yx-2a4e5ef17b25becb",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "2a4e5ef17b25becbca8e8659feb3fda846dd9e944d0236d5c3ad21d96fc82c49",
+      "page_count": 50,
+      "duplicate_of": null,
+      "name": "氢擎未来——高性能氢燃料电池核心零部件国产化替代者",
+      "file_name": "氢擎未来——高性能氢燃料电池核心零部件国产化替代者.pptx",
+      "image": "images/sources/4741276be364652deac2c2571e598cebf1848b20d2515825bb91ee247ad3c8d9.jpg",
+      "style_distribution": {
+        "科技": 50
+      },
+      "layout_distribution": {
+        "未确定": 50
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "4741276be364652deac2c2571e598cebf1848b20d2515825bb91ee247ad3c8d9",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-2bd2846f33a84ea6",
+      "unit_id": "yx-2bd2846f33a84ea6",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "2bd2846f33a84ea674bc1a0b90a1ab96ecdb77abb31f1036c203705d0c28e77e",
+      "page_count": 35,
+      "duplicate_of": null,
+      "name": "智连科技——装配式房屋超低能耗技术集成专家",
+      "file_name": "智连科技——装配式房屋超低能耗技术集成专家.pptx",
+      "image": "images/sources/2263fb05c4a0b0a72f2c7085a24bedc5834c4e0de170acc4bcc155a80d38d09b.jpg",
+      "style_distribution": {
+        "科技": 35
+      },
+      "layout_distribution": {
+        "未确定": 35
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "2263fb05c4a0b0a72f2c7085a24bedc5834c4e0de170acc4bcc155a80d38d09b",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-2d4f3c6ef68282ba",
+      "unit_id": "yx-2d4f3c6ef68282ba",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "2d4f3c6ef68282bae510f0bb385babf235ac7a3ca50e123b06e61b4d2420aac2",
+      "page_count": 219,
+      "duplicate_of": null,
+      "name": "微步突围——跨尺度亚纳米级驱动器引领者 (1)",
+      "file_name": "微步突围——跨尺度亚纳米级驱动器引领者 (1).pdf",
+      "image": "images/sources/57691ade1193f50c4661d73636e5813580061fd29e7f956d609dfb80bbe28d5b.jpg",
+      "style_distribution": {
+        "科技": 219
+      },
+      "layout_distribution": {
+        "未确定": 219
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "57691ade1193f50c4661d73636e5813580061fd29e7f956d609dfb80bbe28d5b",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-3bdbe9f8b4e7d0e3",
+      "unit_id": "yx-3bdbe9f8b4e7d0e3",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "3bdbe9f8b4e7d0e3140469bf1d290a7d33fb89ea7f1a9d777e74794922f2e146",
+      "page_count": 242,
+      "duplicate_of": null,
+      "name": "智检芯生——基于OCT技术的芯片封装三维检测设备",
+      "file_name": "智检芯生——基于OCT技术的芯片封装三维检测设备.pdf",
+      "image": "images/sources/a9b9de45295ce8dd3738fde39ad1307125fbaeafb7904c0b0ca418745c8086cc.jpg",
+      "style_distribution": {
+        "科技": 242
+      },
+      "layout_distribution": {
+        "未确定": 242
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "a9b9de45295ce8dd3738fde39ad1307125fbaeafb7904c0b0ca418745c8086cc",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-3f1a9b4816db63b2",
+      "unit_id": "yx-3f1a9b4816db63b2",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "3f1a9b4816db63b27ecbf58cd11a004e3f989d74ce91004734cf0f20ccd9d0e6",
+      "page_count": 132,
+      "duplicate_of": null,
+      "name": "微封测控——微电子封装产线集成管控领航者",
+      "file_name": "微封测控——微电子封装产线集成管控领航者.pdf",
+      "image": "images/sources/356cfacf5abae5859aeea8835869d95970ffcd83fedfe41361b1f4ae482cdcc0.jpg",
+      "style_distribution": {
+        "科技": 132
+      },
+      "layout_distribution": {
+        "未确定": 132
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "356cfacf5abae5859aeea8835869d95970ffcd83fedfe41361b1f4ae482cdcc0",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-4190d86dc7daaf33",
+      "unit_id": "yx-4190d86dc7daaf33",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "4190d86dc7daaf333ddddb1d5b27b29a31a266f3d92e90606c8b60cc469454be",
+      "page_count": 28,
+      "duplicate_of": null,
+      "name": "“扶光”无障碍文娱公益服务组织",
+      "file_name": "“扶光”无障碍文娱公益服务组织.pdf",
+      "image": "images/sources/bad065c1b3996b60bb5cbe8ad0d1c1d1d34b3d50f477a16ceaeb9243a51ab353.jpg",
+      "style_distribution": {
+        "科技": 28
+      },
+      "layout_distribution": {
+        "未确定": 28
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "bad065c1b3996b60bb5cbe8ad0d1c1d1d34b3d50f477a16ceaeb9243a51ab353",
+      "width": 1600,
+      "height": 2263
+    },
+    {
+      "source_id": "yx-43d5b2cf12cde626",
+      "unit_id": "yx-43d5b2cf12cde626",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "43d5b2cf12cde6263be690b1984e1e7c6cdd1d7516908c48e0d5061c8ef616c3",
+      "page_count": 151,
+      "duplicate_of": null,
+      "name": "思纳氢膜——氢燃料电池膜电极方案引领者",
+      "file_name": "思纳氢膜——氢燃料电池膜电极方案引领者.pdf",
+      "image": "images/sources/2d5213ec309e708be654c97c93aa470ebeb1062c8753edd2ac6b539b9ebcfffd.jpg",
+      "style_distribution": {
+        "科技": 151
+      },
+      "layout_distribution": {
+        "未确定": 151
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "2d5213ec309e708be654c97c93aa470ebeb1062c8753edd2ac6b539b9ebcfffd",
+      "width": 1000,
+      "height": 556
+    },
+    {
+      "source_id": "yx-441894fd2666ca51",
+      "unit_id": "yx-441894fd2666ca51",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "441894fd2666ca5164fae5f6d38b5d4f52c0a0dc7eddd5d45b44cb5360c5ab07",
+      "page_count": 114,
+      "duplicate_of": null,
+      "name": "净水先锋--菌藻共生颗粒污泥破局增效新方案",
+      "file_name": "净水先锋--菌藻共生颗粒污泥破局增效新方案.pdf",
+      "image": "images/sources/5e2fefea814953b5ae3c00a36755c93ad8f0f168681ae1c79adeaacf5f3034e2.jpg",
+      "style_distribution": {
+        "科技": 114
+      },
+      "layout_distribution": {
+        "未确定": 114
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "5e2fefea814953b5ae3c00a36755c93ad8f0f168681ae1c79adeaacf5f3034e2",
+      "width": 1000,
+      "height": 1295
+    },
+    {
+      "source_id": "yx-45ed7926b3d5a8ff",
+      "unit_id": "yx-45ed7926b3d5a8ff",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "45ed7926b3d5a8ff919941d891fde4d9185f6373a28f89885ebb3effba416a66",
+      "page_count": 62,
+      "duplicate_of": null,
+      "name": "土检先锋——高射频土壤质荷分析技术领航者",
+      "file_name": "土检先锋——高射频土壤质荷分析技术领航者.pptx",
+      "image": "images/sources/fb192ba35c4c8a81cadc8555c57a21958f282fae1ed995b14b59836add9ed982.jpg",
+      "style_distribution": {
+        "科技": 62
+      },
+      "layout_distribution": {
+        "未确定": 62
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "fb192ba35c4c8a81cadc8555c57a21958f282fae1ed995b14b59836add9ed982",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-46eb2dc2f61ad04a",
+      "unit_id": "yx-46eb2dc2f61ad04a",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "46eb2dc2f61ad04a09cd496ad70be3a153a97fd41241ceaa6aeb8dc9ec3779bd",
+      "page_count": 30,
+      "duplicate_of": null,
+      "name": "联智云-管道巡检机器人",
+      "file_name": "联智云-管道巡检机器人.pdf",
+      "image": "images/sources/adeb979d7473b092e14a825dc94fae43ee1b49e0c2d3d5b58b5f1e9b38b99134.jpg",
+      "style_distribution": {
+        "科技": 30
+      },
+      "layout_distribution": {
+        "未确定": 30
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "adeb979d7473b092e14a825dc94fae43ee1b49e0c2d3d5b58b5f1e9b38b99134",
+      "width": 1000,
+      "height": 563
+    },
+    {
+      "source_id": "yx-49215e5fbc808b7f",
+      "unit_id": "yx-49215e5fbc808b7f",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "49215e5fbc808b7f7016d50a81657d72fdef68a1aa043a87ace6ab9233c09e7b",
+      "page_count": 20,
+      "duplicate_of": null,
+      "name": "（马改）格岩智支--开辟矿山围岩精准支护新纪元（wps）",
+      "file_name": "（马改）格岩智支--开辟矿山围岩精准支护新纪元（wps）.pdf",
+      "image": "images/sources/791e13b7f1e1b82ca0cf7db460f3568973445899e8c7766ba16d596c6f99d727.jpg",
+      "style_distribution": {
+        "科技": 20
+      },
+      "layout_distribution": {
+        "未确定": 20
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "791e13b7f1e1b82ca0cf7db460f3568973445899e8c7766ba16d596c6f99d727",
+      "width": 1000,
+      "height": 563
+    },
+    {
+      "source_id": "yx-4b3fedf7e0436195",
+      "unit_id": "yx-4b3fedf7e0436195",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "4b3fedf7e0436195cff97d0bd68923fa94026a95fe793c43b10113244ffbd8f5",
+      "page_count": 38,
+      "duplicate_of": null,
+      "name": "（已压缩）智云科技-陈俊熙",
+      "file_name": "（已压缩）智云科技-陈俊熙.pptx",
+      "image": "images/sources/d29269c83ddd9e27a9ae8d81a69e3c601acf757f29af5d76e31a7b087f6bd369.jpg",
+      "style_distribution": {
+        "科技": 38
+      },
+      "layout_distribution": {
+        "未确定": 38
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "d29269c83ddd9e27a9ae8d81a69e3c601acf757f29af5d76e31a7b087f6bd369",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-4edff2db4b6452cb",
+      "unit_id": "yx-4edff2db4b6452cb",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "4edff2db4b6452cb397570ec588c8089e74140ad366ef8bc72aadfc1d7810034",
+      "page_count": 41,
+      "duplicate_of": null,
+      "name": "微封测控——微电子封装产线集成管控领航者",
+      "file_name": "微封测控——微电子封装产线集成管控领航者.pptx",
+      "image": "images/sources/c564ad5cdb1ace905e442782b6b9cbbd6e307ed1cf624e0f9ad3981abe60eb90.jpg",
+      "style_distribution": {
+        "科技": 41
+      },
+      "layout_distribution": {
+        "未确定": 41
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "c564ad5cdb1ace905e442782b6b9cbbd6e307ed1cf624e0f9ad3981abe60eb90",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-556b1b93defa1b3d",
+      "unit_id": "yx-556b1b93defa1b3d",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "556b1b93defa1b3db62cf61c85ed76d565fdea093d49de75fad482ae733d38ff",
+      "page_count": 33,
+      "duplicate_of": null,
+      "name": "云生科技——ESG视角下多维企业数据创新",
+      "file_name": "云生科技——ESG视角下多维企业数据创新.pptx",
+      "image": "images/sources/0c95d2e0e5cbe2e2b606bb40064923fe1428ec8e45afea37fe286c498bc44f88.jpg",
+      "style_distribution": {
+        "科技": 33
+      },
+      "layout_distribution": {
+        "未确定": 33
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "0c95d2e0e5cbe2e2b606bb40064923fe1428ec8e45afea37fe286c498bc44f88",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-6259c7d0c6a20e86",
+      "unit_id": "yx-6259c7d0c6a20e86",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "6259c7d0c6a20e8682031b257fb896bd7821777f5826384ad081878fb5606012",
+      "page_count": 87,
+      "duplicate_of": null,
+      "name": "净尘矩阵——掘进巷道污风全域分级净化系统",
+      "file_name": "净尘矩阵——掘进巷道污风全域分级净化系统.pdf",
+      "image": "images/sources/29f7a95528463370045976d0f9c84c712dd4b9d1563082ccc0e095baa532f3fe.jpg",
+      "style_distribution": {
+        "科技": 87
+      },
+      "layout_distribution": {
+        "未确定": 87
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "29f7a95528463370045976d0f9c84c712dd4b9d1563082ccc0e095baa532f3fe",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-7367557a42c80b3f",
+      "unit_id": "yx-7367557a42c80b3f",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "7367557a42c80b3f1eb3790434b36acee02974c1c835f0fa74d90d06ad8bd6ac",
+      "page_count": 96,
+      "duplicate_of": null,
+      "name": "氢擎未来——高性能氢燃料电池核心零部件国产化替代者",
+      "file_name": "氢擎未来——高性能氢燃料电池核心零部件国产化替代者.pdf",
+      "image": "images/sources/aa82a48e96ab95a7a5941212860ada8c93820418fd48db84f63a76b9ea9f17c9.jpg",
+      "style_distribution": {
+        "科技": 96
+      },
+      "layout_distribution": {
+        "未确定": 96
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "aa82a48e96ab95a7a5941212860ada8c93820418fd48db84f63a76b9ea9f17c9",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-9309dfc13761b04f",
+      "unit_id": "yx-9309dfc13761b04f",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "9309dfc13761b04fb643d43fbca6b1db81981fa5f02526aafb6e442c392c64b4",
+      "page_count": 43,
+      "duplicate_of": null,
+      "name": "隔以永治—基于电磁隔离技术的智能安全用电保护系统",
+      "file_name": "隔以永治—基于电磁隔离技术的智能安全用电保护系统.pptx",
+      "image": "images/sources/12d67147384a04660985e96777a4f51d2fc789e58e3aae2798c1a864e739fe19.jpg",
+      "style_distribution": {
+        "科技": 43
+      },
+      "layout_distribution": {
+        "未确定": 43
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "12d67147384a04660985e96777a4f51d2fc789e58e3aae2798c1a864e739fe19",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-97254c7c15121e0e",
+      "unit_id": "yx-97254c7c15121e0e",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "97254c7c15121e0e3805a5b133d061ee3bde43fdcadf69d60b628832087b9950",
+      "page_count": 52,
+      "duplicate_of": null,
+      "name": "超容先锋--新一代高稳定高容量超级电容",
+      "file_name": "超容先锋--新一代高稳定高容量超级电容.pptx",
+      "image": "images/sources/39c6cba10e2ba0e05e95cf9eef9bfe0f0d9e9dc338c72e5489be72f0440dd0f3.jpg",
+      "style_distribution": {
+        "科技": 52
+      },
+      "layout_distribution": {
+        "未确定": 52
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "39c6cba10e2ba0e05e95cf9eef9bfe0f0d9e9dc338c72e5489be72f0440dd0f3",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-987683f36e4394e2",
+      "unit_id": "yx-987683f36e4394e2",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "987683f36e4394e25133c6103aee430a9158ae922a2b0fd05ab46183b8a75d20",
+      "page_count": 88,
+      "duplicate_of": null,
+      "name": "1_384158-智算光电——新能源背_芯片领航者-项目作品-b522e45c",
+      "file_name": "1_384158-智算光电——新能源背_芯片领航者-项目作品-b522e45c.pdf",
+      "image": "images/sources/919ba2e98da32d4e44a193423fb31e352a4f6ef8dd3b6b16a49460b00e5bfc39.jpg",
+      "style_distribution": {
+        "科技": 88
+      },
+      "layout_distribution": {
+        "未确定": 88
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "919ba2e98da32d4e44a193423fb31e352a4f6ef8dd3b6b16a49460b00e5bfc39",
+      "width": 1000,
+      "height": 563
+    },
+    {
+      "source_id": "yx-9dbc730b358c9550",
+      "unit_id": "yx-9dbc730b358c9550",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "9dbc730b358c9550586e850b1b3e98aaf84a2474a4cfcf750219cca5b2a04eb4",
+      "page_count": 35,
+      "duplicate_of": null,
+      "name": "频锁星枢——面向星间通信的高重复频率再生锁模光纤激光器",
+      "file_name": "频锁星枢——面向星间通信的高重复频率再生锁模光纤激光器.pptx",
+      "image": "images/sources/80b522933bcf6bb9424f2062906cf4423e686ea957635961627f0f388197f658.jpg",
+      "style_distribution": {
+        "科技": 35
+      },
+      "layout_distribution": {
+        "未确定": 35
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "80b522933bcf6bb9424f2062906cf4423e686ea957635961627f0f388197f658",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-a499efa23b2e4b04",
+      "unit_id": "yx-a499efa23b2e4b04",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "a499efa23b2e4b04c03981a2d801193be77444a04e5066def6a4be78115b7421",
+      "page_count": 48,
+      "duplicate_of": null,
+      "name": "智检芯生——基于OCT技术的芯片封装三维检测设备 (1)",
+      "file_name": "智检芯生——基于OCT技术的芯片封装三维检测设备 (1).pptx",
+      "image": "images/sources/36660d83cc31dae19e016b63afbcc5d4be2ad1bcdef552fd9392bbea5392ddc2.jpg",
+      "style_distribution": {
+        "科技": 48
+      },
+      "layout_distribution": {
+        "未确定": 48
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "36660d83cc31dae19e016b63afbcc5d4be2ad1bcdef552fd9392bbea5392ddc2",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-a5da1e5323d3a460",
+      "unit_id": "yx-a5da1e5323d3a460",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "a5da1e5323d3a460fa3d0b78892800a2d35d672dee4a6bff87374016b37667bd",
+      "page_count": 34,
+      "duplicate_of": null,
+      "name": "5_知行无限-面向深地深海战略油气开发的无线充电系统",
+      "file_name": "5_知行无限-面向深地深海战略油气开发的无线充电系统.pptx",
+      "image": "images/sources/b49edcf52dcbaba15d7e1fc54c69524d8a8667dbebf1630a16525886978bc9f5.jpg",
+      "style_distribution": {
+        "科技": 34
+      },
+      "layout_distribution": {
+        "未确定": 34
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "b49edcf52dcbaba15d7e1fc54c69524d8a8667dbebf1630a16525886978bc9f5",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-a675be97775ca489",
+      "unit_id": "yx-a675be97775ca489",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "a675be97775ca48940083ea3f83994676f53687000fa91e05b35608caebc014a",
+      "page_count": 41,
+      "duplicate_of": null,
+      "name": "磁悬“赋”能，驱动未来，国内首创五自由度磁悬浮电火花加工技术",
+      "file_name": "磁悬“赋”能，驱动未来，国内首创五自由度磁悬浮电火花加工技术.pdf",
+      "image": "images/sources/6500832f501f13ce1c1f5cbb81938b97374d4b090d633ad7fded2561f46cd9ac.jpg",
+      "style_distribution": {
+        "科技": 41
+      },
+      "layout_distribution": {
+        "未确定": 41
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "6500832f501f13ce1c1f5cbb81938b97374d4b090d633ad7fded2561f46cd9ac",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-b53bba7f98c35492",
+      "unit_id": "yx-b53bba7f98c35492",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "b53bba7f98c35492f2b88f1fd122c0bbc2e89408dfb3d65033e02695d9f754f9",
+      "page_count": 209,
+      "duplicate_of": null,
+      "name": "深海幽灵——面向主被动声呐探测的水下目标声学特征模拟系统",
+      "file_name": "深海幽灵——面向主被动声呐探测的水下目标声学特征模拟系统.pdf",
+      "image": "images/sources/43373138ca85ffaaa2f9cd0c65fd2fec17a34eab28569978ff3c293a92c9e71c.jpg",
+      "style_distribution": {
+        "科技": 209
+      },
+      "layout_distribution": {
+        "未确定": 209
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "43373138ca85ffaaa2f9cd0c65fd2fec17a34eab28569978ff3c293a92c9e71c",
+      "width": 1000,
+      "height": 563
+    },
+    {
+      "source_id": "yx-b7973ef7cfd73f3d",
+      "unit_id": "yx-b7973ef7cfd73f3d",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "b7973ef7cfd73f3dd097530448109842e573fab0ba1ec12f86dcc365a1153cdc",
+      "page_count": 86,
+      "duplicate_of": null,
+      "name": "超容先锋--新一代高稳定高容量超级电容",
+      "file_name": "超容先锋--新一代高稳定高容量超级电容.pdf",
+      "image": "images/sources/7c82b5e57734b28d0df5bd82300da5373b64312c72cf7d044cf85b29fe12b3a6.jpg",
+      "style_distribution": {
+        "科技": 86
+      },
+      "layout_distribution": {
+        "未确定": 86
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "7c82b5e57734b28d0df5bd82300da5373b64312c72cf7d044cf85b29fe12b3a6",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-bad339552886e2ae",
+      "unit_id": "yx-bad339552886e2ae",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "bad339552886e2ae756105ba7683d44992f09a50bf8f24135a1c5ee7c60cca7f",
+      "page_count": 20,
+      "duplicate_of": null,
+      "name": "2_博源科技——“一带一路”数智化深部矿体充填拓荒者",
+      "file_name": "2_博源科技——“一带一路”数智化深部矿体充填拓荒者.pdf",
+      "image": "images/sources/85f724a93dee86d9febaedced855129cfcb69de5efaee339720d97cee5887839.jpg",
+      "style_distribution": {
+        "科技": 20
+      },
+      "layout_distribution": {
+        "未确定": 20
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "85f724a93dee86d9febaedced855129cfcb69de5efaee339720d97cee5887839",
+      "width": 1000,
+      "height": 563
+    },
+    {
+      "source_id": "yx-bf7cfa0673c20580",
+      "unit_id": "yx-bf7cfa0673c20580",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "bf7cfa0673c2058081917bc95eb88eb520de1c5dcf740a3f5826ac1756b3cee3",
+      "page_count": 40,
+      "duplicate_of": null,
+      "name": "!!!!1111微步突围——跨尺度亚纳米级驱动器引领者",
+      "file_name": "!!!!1111微步突围——跨尺度亚纳米级驱动器引领者.pptx",
+      "image": "images/sources/f3e6ed2aa8baaa4927001c1bd8f8d7231dbdeff057c7c77ef504756ba41e79d8.jpg",
+      "style_distribution": {
+        "科技": 40
+      },
+      "layout_distribution": {
+        "未确定": 40
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "f3e6ed2aa8baaa4927001c1bd8f8d7231dbdeff057c7c77ef504756ba41e79d8",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-c1a287407040274a",
+      "unit_id": "yx-c1a287407040274a",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "c1a287407040274a23ffe8850b878ce63894c439da33b81b8e872b3304b8aabd",
+      "page_count": 36,
+      "duplicate_of": null,
+      "name": "膜焕智联——高频超低介电损耗聚酰亚胺材料破冰者",
+      "file_name": "膜焕智联——高频超低介电损耗聚酰亚胺材料破冰者 .pptx",
+      "image": "images/sources/71ab71d0566b47cbc4a2bc850aed17812d9eb3b66653187eeb1763e985103f1d.jpg",
+      "style_distribution": {
+        "科技": 36
+      },
+      "layout_distribution": {
+        "未确定": 36
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "71ab71d0566b47cbc4a2bc850aed17812d9eb3b66653187eeb1763e985103f1d",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-c91c33447c6569c2",
+      "unit_id": "yx-c91c33447c6569c2",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "c91c33447c6569c2919e802b6fea7272a0a589cf62a7fc433b266c18b1d51bf1",
+      "page_count": 113,
+      "duplicate_of": null,
+      "name": "星语芯援—基于EEG-HRV联合分析的ASD干预设备引领者",
+      "file_name": "星语芯援—基于EEG-HRV联合分析的ASD干预设备引领者.pdf",
+      "image": "images/sources/09ad5106af237f312af1a7aa9dbe12a20c089d2474cf849d2043cf49666be8ae.jpg",
+      "style_distribution": {
+        "科技": 113
+      },
+      "layout_distribution": {
+        "未确定": 113
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "09ad5106af237f312af1a7aa9dbe12a20c089d2474cf849d2043cf49666be8ae",
+      "width": 1000,
+      "height": 563
+    },
+    {
+      "source_id": "yx-ce929af2327cec17",
+      "unit_id": "yx-ce929af2327cec17",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "ce929af2327cec170c17e17683f609be5d77be3b804ea7785b07ae78c389ad64",
+      "page_count": 19,
+      "duplicate_of": null,
+      "name": "”丝路信盾“校-政-企共建信息技术和应用创新（信创）运维中心",
+      "file_name": "”丝路信盾“校-政-企共建信息技术和应用创新（信创）运维中心.pptx",
+      "image": "images/sources/35ab9f415d1f7d15a4bb82f0a13519f82feded2b1e6a47106a92edc006768fc9.jpg",
+      "style_distribution": {
+        "科技": 19
+      },
+      "layout_distribution": {
+        "未确定": 19
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "35ab9f415d1f7d15a4bb82f0a13519f82feded2b1e6a47106a92edc006768fc9",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-d5fb1a2f9eb15f8d",
+      "unit_id": "yx-d5fb1a2f9eb15f8d",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "d5fb1a2f9eb15f8d88f5719b9bfddbb74d5011ccc4ae5d2fc8c53791e179fc39",
+      "page_count": 44,
+      "duplicate_of": null,
+      "name": "净水先锋--菌藻共生颗粒污泥破局增效新方案",
+      "file_name": "净水先锋--菌藻共生颗粒污泥破局增效新方案.pptx",
+      "image": "images/sources/c3d65afd5d0a15be4fc482cae129666b383e7bc70c494ed4726e3365fb61c80d.jpg",
+      "style_distribution": {
+        "科技": 44
+      },
+      "layout_distribution": {
+        "未确定": 44
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "c3d65afd5d0a15be4fc482cae129666b383e7bc70c494ed4726e3365fb61c80d",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-ddf55f01f2234fc6",
+      "unit_id": "yx-ddf55f01f2234fc6",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "ddf55f01f2234fc6043cf444efe95716889f004af6ea1c3a2fd32adec6e696b0",
+      "page_count": 32,
+      "duplicate_of": null,
+      "name": "“芯”安理付——数字弱势群体“硬”支付装置的新形态",
+      "file_name": "“芯”安理付——数字弱势群体“硬”支付装置的新形态.pptx",
+      "image": "images/sources/4c1f46c61368953242710d16dc11d4ca42c210be9b44820b1e450c38188fc221.jpg",
+      "style_distribution": {
+        "科技": 32
+      },
+      "layout_distribution": {
+        "未确定": 32
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "4c1f46c61368953242710d16dc11d4ca42c210be9b44820b1e450c38188fc221",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-df8bbcc0d09a84d9",
+      "unit_id": "yx-df8bbcc0d09a84d9",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "df8bbcc0d09a84d93fbd9f65fedcf94f281c8b9c3d6ea1571e4dbe28be8bdaf8",
+      "page_count": 110,
+      "duplicate_of": null,
+      "name": "频锁星枢——面向星间通信的高重复频率再生锁模光纤激光器",
+      "file_name": "频锁星枢——面向星间通信的高重复频率再生锁模光纤激光器.pdf",
+      "image": "images/sources/17223c7ca0c00ec21047be94a0e31da811bbf3f85c5499a23235e52f687cd6f2.jpg",
+      "style_distribution": {
+        "科技": 110
+      },
+      "layout_distribution": {
+        "未确定": 110
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "17223c7ca0c00ec21047be94a0e31da811bbf3f85c5499a23235e52f687cd6f2",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-dfd22e9538394af3",
+      "unit_id": "yx-dfd22e9538394af3",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "dfd22e9538394af3d2885ec82f36c983027814d12f41b94f407d3abb9164d3cf",
+      "page_count": 30,
+      "duplicate_of": null,
+      "name": "铝焊新擎——搅拌摩擦焊技术的领军者",
+      "file_name": "铝焊新擎——搅拌摩擦焊技术的领军者.pptx",
+      "image": "images/sources/bd5e053417b0232082bde43e28e6cc1b10c2bb0376307fdc00e0600af93ee6c5.jpg",
+      "style_distribution": {
+        "科技": 30
+      },
+      "layout_distribution": {
+        "未确定": 30
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "bd5e053417b0232082bde43e28e6cc1b10c2bb0376307fdc00e0600af93ee6c5",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-e669c9bd4bc9670c",
+      "unit_id": "yx-e669c9bd4bc9670c",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "e669c9bd4bc9670c9c079aecae0342f1036936b5443a991f1dcbae64ce920083",
+      "page_count": 153,
+      "duplicate_of": null,
+      "name": "寰宇畅联——空天地一体化太赫兹_激光融合通信革新者",
+      "file_name": "寰宇畅联——空天地一体化太赫兹_激光融合通信革新者.pdf",
+      "image": "images/sources/0763387f4643519353743d15e9f92e11a0e76a05474ab312651577f6487053d5.jpg",
+      "style_distribution": {
+        "科技": 153
+      },
+      "layout_distribution": {
+        "未确定": 153
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "0763387f4643519353743d15e9f92e11a0e76a05474ab312651577f6487053d5",
+      "width": 1000,
+      "height": 1414
+    },
+    {
+      "source_id": "yx-ea99f7404b5ff2e8",
+      "unit_id": "yx-ea99f7404b5ff2e8",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "ea99f7404b5ff2e8432a9d275119949580a0ce445a58f93d27fc784bf740e4ce",
+      "page_count": 42,
+      "duplicate_of": null,
+      "name": "绿碳磨新——生物质碳源微波绿色制备碳化硅磨料领航者",
+      "file_name": "绿碳磨新——生物质碳源微波绿色制备碳化硅磨料领航者.pptx",
+      "image": "images/sources/448d43d006d6013cf9a59f35b0b5b0b37cb3437063b5600404d4ee764a1eccea.jpg",
+      "style_distribution": {
+        "科技": 42
+      },
+      "layout_distribution": {
+        "未确定": 42
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "448d43d006d6013cf9a59f35b0b5b0b37cb3437063b5600404d4ee764a1eccea",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-eace6695d38cce98",
+      "unit_id": "yx-eace6695d38cce98",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "eace6695d38cce9899bcd7c97bfe537ac7c029d1bbb9ffb4845785264a0c22ff",
+      "page_count": 50,
+      "duplicate_of": null,
+      "name": "净尘矩阵——掘进巷道污风全域分级净化系统",
+      "file_name": "净尘矩阵——掘进巷道污风全域分级净化系统.pptx",
+      "image": "images/sources/d4de8d3a6f559601b4e83ffb953d03be3b36d62e6fc6dc83289e4c46122fd3cf.jpg",
+      "style_distribution": {
+        "科技": 50
+      },
+      "layout_distribution": {
+        "未确定": 50
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "d4de8d3a6f559601b4e83ffb953d03be3b36d62e6fc6dc83289e4c46122fd3cf",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-efd70560878227a4",
+      "unit_id": "yx-efd70560878227a4",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "efd70560878227a4be115f7518c257bd4843996b39eb88cd3cd2314e0b8872ca",
+      "page_count": 37,
+      "duplicate_of": null,
+      "name": "运筹“微”握——国内柔性智能微装配机器人领航者",
+      "file_name": "运筹“微”握——国内柔性智能微装配机器人领航者.pptx",
+      "image": "images/sources/064ce7a86c090e6f7080161bc8fde2f574a2e64a3bee852c0e3748dfb1bf61bb.jpg",
+      "style_distribution": {
+        "科技": 37
+      },
+      "layout_distribution": {
+        "未确定": 37
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "064ce7a86c090e6f7080161bc8fde2f574a2e64a3bee852c0e3748dfb1bf61bb",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-f57a07da60bcad2c",
+      "unit_id": "yx-f57a07da60bcad2c",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "f57a07da60bcad2cbbd69db532f914e6715f8568a2b081d4fbe2facb04296f9b",
+      "page_count": 35,
+      "duplicate_of": null,
+      "name": "1_青创科技——铁路变配电所智能巡检机器人",
+      "file_name": "1_青创科技——铁路变配电所智能巡检机器人.pptx",
+      "image": "images/sources/f6ac10bd0333d01d9f54a60a90bf2e7ede9822f2aae5c7afbfe77907699a8cd0.jpg",
+      "style_distribution": {
+        "科技": 35
+      },
+      "layout_distribution": {
+        "未确定": 35
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "f6ac10bd0333d01d9f54a60a90bf2e7ede9822f2aae5c7afbfe77907699a8cd0",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-f7034d8e1a672cd8",
+      "unit_id": "yx-f7034d8e1a672cd8",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "f7034d8e1a672cd84966277a3fd572cf3e2174d0a51595d970cb74b39006acd3",
+      "page_count": 44,
+      "duplicate_of": null,
+      "name": "深海幽灵——面向主被动声呐探测的水下目标声学特征模拟系统",
+      "file_name": "深海幽灵——面向主被动声呐探测的水下目标声学特征模拟系统.pptx",
+      "image": "images/sources/e76ed14ff83096bfe13993c4107f64c2635c0d7955eb5658cb9bc602fc9f1b16.jpg",
+      "style_distribution": {
+        "科技": 44
+      },
+      "layout_distribution": {
+        "未确定": 44
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "e76ed14ff83096bfe13993c4107f64c2635c0d7955eb5658cb9bc602fc9f1b16",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "source_id": "yx-f7abafee6930b6fb",
+      "unit_id": "yx-f7abafee6930b6fb",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PDF",
+      "primary_style": "科技",
+      "sha256": "f7abafee6930b6fbcac1eccef9ea5a14ec832482fcf7e1ffce568b7ef0aac01f",
+      "page_count": 82,
+      "duplicate_of": null,
+      "name": "云生科技——ESG视角下多维企业数据创新",
+      "file_name": "云生科技——ESG视角下多维企业数据创新.pdf",
+      "image": "images/sources/573e769d7795df91266c25063e58b06729e6eaec6b9cc2972b6f15f655aaa3af.jpg",
+      "style_distribution": {
+        "科技": 82
+      },
+      "layout_distribution": {
+        "未确定": 82
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "573e769d7795df91266c25063e58b06729e6eaec6b9cc2972b6f15f655aaa3af",
+      "width": 1000,
+      "height": 1415
+    },
+    {
+      "source_id": "yx-fe3001dacd106996",
+      "unit_id": "yx-fe3001dacd106996",
+      "batch": "优秀成果",
+      "versions": [
+        "优秀成果"
+      ],
+      "selected_style": "科技",
+      "source_kind": "PPTX",
+      "primary_style": "科技",
+      "sha256": "fe3001dacd106996822822391bc8e7886454678c866597615655a05c0d9c3a17",
+      "page_count": 27,
+      "duplicate_of": null,
+      "name": "磁悬“赋”能，驱动未来，国内首创五自由度磁悬浮电火花加工技术",
+      "file_name": "磁悬“赋”能，驱动未来，国内首创五自由度磁悬浮电火花加工技术.pptx",
+      "image": "images/sources/b15da07f54756555cadd40c7accaef52ef12990a92fe176c490a56e1c2a44cb7.jpg",
+      "style_distribution": {
+        "科技": 27
+      },
+      "layout_distribution": {
+        "未确定": 27
+      },
+      "scores": {
+        "visual": 4,
+        "layout": 4
+      },
+      "quality_score": 4,
+      "crop_statuses": [
+        "normal"
+      ],
+      "crop_review_needed": false,
+      "source_partial": false,
+      "image_sha256": "b15da07f54756555cadd40c7accaef52ef12990a92fe176c490a56e1c2a44cb7",
+      "width": 1280,
+      "height": 720
     }
   ]
 }

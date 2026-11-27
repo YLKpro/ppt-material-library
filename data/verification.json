@@ -1,28 +1,30 @@
 {
-  "scope": "第一版全部保留，第二三版精选与新增小红书精美PPT去重合并",
-  "sources": 252,
-  "pages": 761,
-  "unique_jpegs": 1013,
+  "scope": "第一版、第二版、第三版、小红书精美PPT与优秀成果合并公开包",
+  "sources": 306,
+  "pages": 4686,
+  "unique_jpegs": 4991,
   "credential_scan_passed": true,
   "private_paths_removed": true,
   "source_integrity_audit_passed": true,
   "all_original_hashes_verified": true,
-  "originals_verified": 1174,
-  "all_first_version_sources_included": true,
+  "originals_verified": 1228,
   "version_counts": {
     "第一版": 129,
     "第二版": 54,
     "第三版": 82,
-    "小红书精美PPT": 64
+    "小红书精美PPT": 64,
+    "优秀成果": 54
   },
+  "quality_scored": true,
+  "quality_score": 4,
+  "scored_pages": 3925,
   "increment": {
-    "new_sources": 39,
-    "new_pages": 175,
-    "source_reused": 25,
-    "near_duplicate_pages_omitted": 45,
-    "held_pages": 28,
-    "partial_pages": 16,
-    "structure_analyzed": 175
-  },
-  "package_tests_passed": 24
+    "batch": "优秀成果",
+    "new_sources": 54,
+    "new_pages": 3925,
+    "exact_duplicate_files": 2,
+    "duplicate_page_hashes": 1,
+    "supabase_decks": 54,
+    "supabase_pages": 3925
+  }
 }
